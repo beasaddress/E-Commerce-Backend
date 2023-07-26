@@ -19,7 +19,8 @@ by Beatriz Sandoval ![Github license](https://img.shields.io/badge/license-MIT-y
 
 
 ## Description
-A fully functional backend for an E-Commerce site with a working Express.js API that is utilizing Sequelize to interact with a MySql database. 
+A fully functional backend for an E-Commerce site with a working Express.js API that is utilizing Sequelize to interact with a MySql database. Below you will find a link to the walkthrough video. It demonstrates how to get the application to run as well as the functionality of the GET, POST, PUT, and DELETE requests for each of the models in the database. 
+Link: https://drive.google.com/file/d/1CNfZ_IBR2DoTOwShZBebiMjPgVhhv3tC/view
 
 ## Installations
 Dependencies include dotenv, express, mysql2, and sequelize. Make sure to run "npm install" for this application.
